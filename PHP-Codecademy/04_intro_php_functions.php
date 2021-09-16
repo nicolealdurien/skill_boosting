@@ -31,4 +31,9 @@
 # We have assigned the parameter to be an alias for the argument variable,
 # so changes to the parameter within the function will 
 # permanently affect the argument variable. 
+#
+# SCOPE
+# To use a globally-scoped variable within a function, you must reference
+# it again inside the function, preceded by the keyword 'global'.
+
 
