@@ -17,4 +17,15 @@
 # convert the array into a string using the implode() function. This
 # takes two arguments:
 # - a string to use between each element (the "glue"), usually ", "
-# - the array to be joined together (the "pieces")
+# - the array to be joined together (the "pieces").
+#
+# ACCESSING ELEMENTS - bracket notation as usual.
+#
+# Add to end of array as follows:
+# $array[]="new element";
+#
+# Adding an index number within the brackets will reassign the value
+# of that specific index:
+# $array[0]="replacing first element"
+#
+#
