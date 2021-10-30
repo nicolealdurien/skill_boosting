@@ -28,4 +28,11 @@
 # of that specific index:
 # $array[0]="replacing first element"
 #
+# 'pop' and 'push'  in PHP are done with functions, array_pop() * array_push().
+# The first argument to array_push must be the array you want to add to.
+# The following arguments will be the things you want added.
 #
+# Shift and unshift work the same way.
+#
+# NESTED ARRAYS
+#  
